@@ -1,0 +1,7 @@
+streamlit
+beautifulsoup4
+yfinance
+matplotlib
+pandas
+tweepy
+langchain_openai
