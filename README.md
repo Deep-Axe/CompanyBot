@@ -1,7 +1,7 @@
 # Company Intelligence Bot: Report
 
 ## Approach
-The CompanyBot is built upon reverse-engineered implementations of Cohesive_GPT and Cohesive_Agent, enhancing its ability to retrieve and process company-related insights dynamically. This preliminary website serves as an initial proof-of-concept for ease of understanding, and it can be seamlessly ported to Google Sheets for further integration into existing workflows.
+The CompanyBot is built upon reverse-engineered implementations of Cohesive_GPT and Cohesive_Agent, enhancing its ability to retrieve and process company-related insights dynamically. This preliminary web app serves as an initial proof-of-concept for ease of understanding, Google Sheets Extension coming soon.
 
 The CompanyBot implements a multi-source data retrieval system combined with a generative AI interface, enabling users to research organizations and ask natural language questions about them. The system employs web scraping to gather information from various online sources, processes this data to extract relevant insights, and provides a conversational interface powered by a large language model (LLM). This approach follows the Retrieval-Augmented Generation (RAG) paradigm, where externally sourced information enhances the model's responses.
 
